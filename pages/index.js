@@ -40,12 +40,11 @@ const App = () => {
 
   return (
     <div className='App'>
-      <HeadComponent />
       <div className='container'>
         <header className='header-container'>
           <p className='header'> 😳 Hale Emoji Store 😈</p>
           <p className='sub-text'>
-            The only emoji store that accepts sh*tcoins
+            The only emoji store that accepts shitcoins
           </p>
         </header>
 
